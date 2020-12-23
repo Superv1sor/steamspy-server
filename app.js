@@ -21,7 +21,7 @@ const cors = require("cors");
 var allowedOrigins = [
   "http://localhost:3001",
   "http://192.168.178.21:3001",
-  "https://pokefight-client.netlify.app",
+  "https://stupefied-wescoff-4cb2b3.netlify.app/",
 ];
 app.use(
   cors({
